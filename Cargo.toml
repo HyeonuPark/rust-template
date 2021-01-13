@@ -1,0 +1,13 @@
+[package]
+name = "rust-template"
+version = "0.1.0"
+authors = ["HyeonuPark <nemo1275@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = ""
+repository = "https://github.com/HyeonuPark/INSERT_NAME_HERE"
+documentation = "https://docs.rs/INSERT_NAME_HERE"
+readme = "README.md"
+categories = []
+
+[dependencies]
